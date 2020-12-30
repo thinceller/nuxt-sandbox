@@ -80,6 +80,14 @@ export default {
           title: 'Inspire',
           to: '/inspire',
         },
+        {
+          title: 'hoge',
+          to: '/hoge',
+        },
+        {
+          title: 'jsx',
+          to: '/jsx',
+        },
       ],
       miniVariant: false,
       right: true,
